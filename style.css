@@ -1,0 +1,136 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    background: url(./img/bg\ with\ shoe\ edited\ in\ photoshop.png)center/cover;
+    height: 810px;
+}
+.container{
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+        margin:0 auto;
+        padding-top: 66px;
+        align-items: center;
+}
+
+.nav-ul{
+    max-width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    list-style: none;
+}
+
+.nav-ul a{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-family:  Monument Extended;
+    font-weight: bold;
+    padding-right: 70px;
+}
+.iconca{
+    max-width: 170px; 
+    display: flex;
+    justify-content: space-between;
+}
+
+.korzina{
+    padding: 0 45px;
+}
+
+.header-item{
+     margin: 400px 0 0 500px;                       
+}
+
+.text-item{
+    max-width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn{
+    width: 74px;
+    height: 29px;
+    border-radius: 10px;
+    color: white;
+    background: #EB0000;
+    border: none;
+    font-size: 12px;
+    margin:0 0 5px 475px;
+}
+
+.price{
+    font-weight: bold;
+    color: #e70000;
+    font-size: 36px;
+}
+
+.text{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.header-about{
+    max-width: 1200px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.CHOOSE{
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.shoes{
+
+}
+.about-btn{
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-add{
+    width: 179px;
+    height: 51px;
+    background-color: white;
+    color: black;
+    font-size: 13px;
+    border: none;
+    font-weight: bold;
+}
+
+.btn-now{
+    width: 162px;
+    height: 51px;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    border: 0.75px solid #FFF;
+    margin-left:33px ;
+    font-weight: bold;
+}
+
+.ins{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+
+.text-1{
+    width: 280px;
+    height: 61px;
+    color: white;
+    font-size: 13px;
+    line-height: 20.25px; /* 155.769% */
+}
